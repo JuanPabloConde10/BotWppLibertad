@@ -1,0 +1,27 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "cumpleaños": "node index.js --verificar-cumpleaños",
+    "listar": "node index.js --listar-socios",
+    "agregar": "node index.js --agregar-socio",
+    "evento": "node index.js --evento"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Bot de WhatsApp para el club usando Baileys",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.7.13",
+    "date-fns": "^4.1.0",
+    "dotenv": "^16.4.7",
+    "node-cron": "^3.0.3",
+    "node-schedule": "^2.1.1",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "type": "module"
+}
+

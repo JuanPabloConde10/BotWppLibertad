@@ -1,0 +1,26 @@
+[
+  {
+    "nombre": "Juan Pablo",
+    "telefono": "59898125703",
+    "fechaNacimiento": "01/03",
+    "msjBienvenidaSend": true
+  },
+  {
+    "nombre": "Silvana Inzaurralde",
+    "telefono": "59899891310",
+    "fechaNacimiento": "09/03",
+    "msjBienvenidaSend": true
+  },
+  {
+    "nombre": "Silvana",
+    "telefono": "59899891310",
+    "fechaNacimiento": "01/01",
+    "msjBienvenidaSend": true
+  },
+  {
+    "nombre": "Jp",
+    "telefono": "59898125703",
+    "fechaNacimiento": "01/03",
+    "msjBienvenidaSend": true
+  }
+]
