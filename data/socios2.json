@@ -1,0 +1,722 @@
+[
+    {
+      "nombre": "Carlos Neco Suárez",
+      "telefono": "59898908800",
+      "email": "",
+      "cedula": "28925575",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Felipe Suárez",
+      "telefono": "59895001033",
+      "email": "",
+      "cedula": "57010260",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Wilmar Romero Mederos",
+      "telefono": "59899687801",
+      "email": "morfote1@gmail.com",
+      "cedula": "34134033",
+      "fechaNacimiento": "5/08",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Sofía Bonilla Rodríguez",
+      "telefono": "59895099888",
+      "email": "bonillarodriguezsofia@gmail.com",
+      "cedula": "48661402",
+      "fechaNacimiento": "27/10",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Nestor Dante Rodriguez Gonzalez",
+      "telefono": "59899760269",
+      "email": "",
+      "cedula": "33184946",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Gastón Bonilla Tejera",
+      "telefono": "59892305299",
+      "email": "",
+      "cedula": "47285201",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Belén Bonilla Tejera",
+      "telefono": "59899215774",
+      "email": "",
+      "cedula": "44182282",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Julio César Bonilla Cedres",
+      "telefono": "59894493154",
+      "email": "solerocha14@hotmail.com",
+      "cedula": "32330766",
+      "fechaNacimiento": "4/08",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Marcelo Inzaurralde",
+      "telefono": "59899811233",
+      "email": "",
+      "cedula": "36408549",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Marcos Inzaurralde",
+      "telefono": "59899204609",
+      "email": "",
+      "cedula": "44898841",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Juan Pablo Conde",
+      "telefono": "59898125703",
+      "email": "",
+      "cedula": "52734067",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Nadia Silvina Rodríguez Correa",
+      "telefono": "59894868154",
+      "email": "",
+      "cedula": "44996083",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Maritza Beatriz Bonilla Batista",
+      "telefono": "59899990011",
+      "email": "",
+      "cedula": "25932125",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Agustín Esteche",
+      "telefono": "59899245045",
+      "email": "",
+      "cedula": "44493003",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Luis Alberto Bonilla Paez",
+      "telefono": "59897402178",
+      "email": "",
+      "cedula": "33307233",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Pablo Cardoso",
+      "telefono": "",
+      "email": "",
+      "cedula": "1",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Jose Luis Perdomo",
+      "telefono": "59891295658",
+      "email": "",
+      "cedula": "31877094",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Ricardo Perez Guadagna",
+      "telefono": "59899663871",
+      "email": "",
+      "cedula": "36210853",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Ximena Correa Burgos",
+      "telefono": "59891664509",
+      "email": "",
+      "cedula": "48431283",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Gonzalo Manuel Herrera Frade",
+      "telefono": "59894052451",
+      "email": "",
+      "cedula": "",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Nestor Fabian Bonilla Espino",
+      "telefono": "59894173232",
+      "email": "bonillanestor1712@gmail.com",
+      "cedula": "31657458",
+      "fechaNacimiento": "17/12",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Rafael Fernandez",
+      "telefono": "59894042256",
+      "email": "",
+      "cedula": "13751399",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Eduardo Garcia",
+      "telefono": "59899811978",
+      "email": "",
+      "cedula": "40599328",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Margarita Aquino",
+      "telefono": "59898612028",
+      "email": "",
+      "cedula": "29683978",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Patricia Guerra",
+      "telefono": "59898612028",
+      "email": "",
+      "cedula": "25651886",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Lucia Birriel",
+      "telefono": "59893954660",
+      "email": "",
+      "cedula": "48832962",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Walter Herrera",
+      "telefono": "",
+      "email": "",
+      "cedula": "34992669",
+      "fechaNacimiento": "12/04",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Andres de Leon Brito",
+      "telefono": "59899139838",
+      "email": "",
+      "cedula": "35649231",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Christian Tort",
+      "telefono": "59899831204",
+      "email": "",
+      "cedula": "47523386",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Juan Melgarejo",
+      "telefono": "59899943561",
+      "email": "",
+      "cedula": "25370365",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Robert alexis correa gutierrez",
+      "telefono": "59895897404",
+      "email": "",
+      "cedula": "26058786",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Elena Beatriz Rodríguez",
+      "telefono": "59893530494",
+      "email": "",
+      "cedula": "36911958",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Juan Martin Sanchez",
+      "telefono": "",
+      "email": "",
+      "cedula": "",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Bernardo odiZZIO",
+      "telefono": "59899373640",
+      "email": "",
+      "cedula": "34884349",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Carlos Pereyra",
+      "telefono": "59899810545",
+      "email": "",
+      "cedula": "14627489",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Carlos Daniel Iroldi de Leon",
+      "telefono": "59899812745",
+      "email": "",
+      "cedula": "26318746",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Sebastián Silvera García",
+      "telefono": "59894323824",
+      "email": "",
+      "cedula": "43569645",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Diego Bonilla",
+      "telefono": "59899323564",
+      "email": "",
+      "cedula": "38259063",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Teresita Barrios",
+      "telefono": "59894873058",
+      "email": "",
+      "cedula": "36230564",
+      "fechaNacimiento": "3/10",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Diamela Rodriguez",
+      "telefono": "59898708911",
+      "email": "diamela_rodriguez@hotmail.com",
+      "cedula": "47295969",
+      "fechaNacimiento": "21/06",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Juan Ignacio Bonilla Bernadet",
+      "telefono": "59899521857",
+      "email": "",
+      "cedula": "46485022",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Marcos Baratta",
+      "telefono": "59898473201",
+      "email": "",
+      "cedula": "47947433",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Alexis Omar Ledesma Trinidad",
+      "telefono": "59894202262",
+      "email": "aledesmauy@gmail.com",
+      "cedula": "43157107",
+      "fechaNacimiento": "31/03",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Verónica de León olivera",
+      "telefono": "59899903664",
+      "email": "junio0609@hotmail.es",
+      "cedula": "28400068",
+      "fechaNacimiento": "08/12",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Lidis Margot Moreira Birriel",
+      "telefono": "59892666514",
+      "email": "",
+      "cedula": "34201131",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Dario Lara",
+      "telefono": "59895456917",
+      "email": "laralari@msn.com",
+      "cedula": "31214280",
+      "fechaNacimiento": "30/09",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Silvina Chivi Tejera",
+      "telefono": "59899564130",
+      "email": "",
+      "cedula": "46798738",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Julian Arellano",
+      "telefono": "59899804460",
+      "email": "",
+      "cedula": "55676143",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Matías Gervasio",
+      "telefono": "59898066819",
+      "email": "",
+      "cedula": "51161390",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Maria Eugenia Gervasio Nuñez",
+      "telefono": "59899305416",
+      "email": "",
+      "cedula": "51161384",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Agustin Umpierrez Sosa",
+      "telefono": "59899315799",
+      "email": "agustin3342@icloud.com",
+      "cedula": "40052920",
+      "fechaNacimiento": "30/06",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Mariela Silvana Rodríguez Correa",
+      "telefono": "59894585394",
+      "email": "",
+      "cedula": "42574998",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Fiorella Mosteiro",
+      "telefono": "59892469764",
+      "email": "",
+      "cedula": "50206230",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Jorge Faure Valbi",
+      "telefono": "59899924720",
+      "email": "",
+      "cedula": "20109747",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+      "nombre": "Hilian Benitez Vega",
+      "telefono": "59899436584",
+      "email": "",
+      "cedula": "39744992",
+      "fechaNacimiento": "",
+      "msjBienvenidaSend": false
+    },
+    {
+        "nombre": "Salvador Bonilla Ledesma",
+        "telefono": "59895099888",
+        "email": "bonillarodriguezsofia@gmail.com",
+        "cedula": "6502543",
+        "fechaNacimiento": "03/06",
+        "msjBienvenidaSend": false
+    },
+    {
+        "nombre": "Luis Alfredo Fernandez Garcia",
+        "telefono": "59892600081",
+        "email": "",
+        "cedula": "4540520",
+        "fechaNacimiento": "",
+        "msjBienvenidaSend": false
+    },
+    {
+        "nombre": "Julio Cabrera Díaz",
+        "telefono": "59895550320",
+        "email": "",
+        "cedula": "3261534",
+        "fechaNacimiento": "",
+        "msjBienvenidaSend": false
+    },
+    {
+        "nombre": "Paula Olivera Julián",
+        "telefono": "59893560058",
+        "email": "",
+        "cedula": "4509426",
+        "fechaNacimiento": "",
+        "msjBienvenidaSend": false
+    },
+    {
+        "nombre": "Federico Perdomo Baez",
+        "telefono": "59896420878",
+        "email": "",
+        "cedula": "4211297",
+        "fechaNacimiento": "",
+        "msjBienvenidaSend": false
+    },
+    {
+        "nombre": "Valentina Marx Lopez",
+        "telefono": "59899850014",
+        "email": "",
+        "cedula": "4726179",
+        "fechaNacimiento": "",
+        "msjBienvenidaSend": false
+    },
+    {
+        "nombre": "Gaston Martin O´Neil Almada",
+        "telefono": "59899754189",
+        "email": "",
+        "cedula": "4773574",
+        "fechaNacimiento": "",
+        "msjBienvenidaSend": false
+    },
+    {
+        "nombre": "Eduardo Pereira",
+        "telefono": "59894468117",
+        "email": "",
+        "cedula": "2803792",
+        "fechaNacimiento": "",
+        "msjBienvenidaSend": false
+    },
+    {
+        "nombre": "Ana Alicia Pérez",
+        "telefono": "59894603931",
+        "email": "",
+        "cedula": "4114664",
+        "fechaNacimiento": "",
+        "msjBienvenidaSend": false
+    },
+    {
+        "nombre": "Mario Jorge Martínez Sosa",
+        "telefono": "59891026331",
+        "email": "",
+        "cedula": "4061408",
+        "fechaNacimiento": "",
+        "msjBienvenidaSend": false
+    },
+    {
+        "nombre": "Miriam Judith Machado Robaina",
+        "telefono": "59891026330",
+        "email": "",
+        "cedula": "3317263",
+        "fechaNacimiento": "",
+        "msjBienvenidaSend": false
+    },
+    {
+        "nombre": "Víctor Gutierrez",
+        "telefono": "59899888445",
+        "email": "",
+        "cedula": "5537321",
+        "fechaNacimiento": "",
+        "msjBienvenidaSend": false
+    },
+    {
+        "nombre": "Tomás Álvarez Vilizzio",
+        "telefono": "59896971000",
+        "email": "",
+        "cedula": "5696416",
+        "fechaNacimiento": "",
+        "msjBienvenidaSend": false
+    },
+    {
+        "nombre": "Andrés González Arostegui",
+        "telefono": "59897534837",
+        "email": "",
+        "cedula": "3871458",
+        "fechaNacimiento": "",
+        "msjBienvenidaSend": false
+    },
+    {
+        "nombre": "Patricia Machado",
+        "telefono": "59898154585",
+        "email": "",
+        "cedula": "4357797",
+        "fechaNacimiento": "",
+        "msjBienvenidaSend": false
+    },
+    {
+        "nombre": "Camila Rodriguez",
+        "telefono": "59899057786",
+        "email": "",
+        "cedula": "4707468",
+        "fechaNacimiento": "",
+        "msjBienvenidaSend": false
+    },
+    {
+        "nombre": "Evangelina Yunta",
+        "telefono": "59891731186",
+        "email": "evangelina.yunta1994@gmail.com",
+        "cedula": "4677864",
+        "fechaNacimiento": "23/12",
+        "msjBienvenidaSend": false
+    },
+    {
+        "nombre": "Luciana Delfina Gonzalez Machado",
+        "telefono": "59892611368",
+        "email": "",
+        "cedula": "5327726",
+        "fechaNacimiento": "",
+        "msjBienvenidaSend": false
+    },
+    {
+        "nombre": "Lucia Arambillety",
+        "telefono": "59893552954",
+        "email": "",
+        "cedula": "5500809",
+        "fechaNacimiento": "",
+        "msjBienvenidaSend": false
+    },
+    {
+        "nombre": "florencia soria",
+        "telefono": "59898707209",
+        "email": "",
+        "cedula": "5139758",
+        "fechaNacimiento": "",
+        "msjBienvenidaSend": false
+    },
+    {
+        "nombre": "Wilson Ismael Rodriguez",
+        "telefono": "59892727174",
+        "email": "",
+        "cedula": "3209568",
+        "fechaNacimiento": "",
+        "msjBienvenidaSend": false
+    },
+    {
+        "nombre": "Martina Silva",
+        "telefono": "59897413928",
+        "email": "",
+        "cedula": "5661421",
+        "fechaNacimiento": "",
+        "msjBienvenidaSend": false
+    },
+    {
+        "nombre": "Nicolás Federico Sanguinetti Ferreirq",
+        "telefono": "59892890971",
+        "email": "",
+        "cedula": "4788599",
+        "fechaNacimiento": "",
+        "msjBienvenidaSend": false
+    },
+    {
+        "nombre": "María Valeria Techera Caballero",
+        "telefono": "59891672504",
+        "email": "",
+        "cedula": "5666619",
+        "fechaNacimiento": "",
+        "msjBienvenidaSend": false
+    },
+    {
+        "nombre": "Damián Rafael Tort Rodriguez",
+        "telefono": "59891237322",
+        "email": "",
+        "cedula": "4373923",
+        "fechaNacimiento": "",
+        "msjBienvenidaSend": false
+    },
+    {
+        "nombre": "Maria del valle Inzaurralde",
+        "telefono": "59899817130",
+        "email": "",
+        "cedula": "3257541",
+        "fechaNacimiento": "",
+        "msjBienvenidaSend": false
+    },
+    {
+        "nombre": "Diego Conde",
+        "telefono": "59899138577",
+        "email": "",
+        "cedula": "1528597",
+        "fechaNacimiento": "",
+        "msjBienvenidaSend": false
+    },
+    {
+        "nombre": "Francisco Acosta",
+        "telefono": "59899044214",
+        "email": "",
+        "cedula": "2612481",
+        "fechaNacimiento": "9/06",
+        "msjBienvenidaSend": false
+    },
+    {
+        "nombre": "Nelsi Tabeira",
+        "telefono": "59894113686",
+        "email": "",
+        "cedula": "3578568",
+        "fechaNacimiento": "14/11",
+        "msjBienvenidaSend": false
+    },
+    {
+        "nombre": "Dinorah Guerra Nuñez",
+        "telefono": "59899046870",
+        "email": "",
+        "cedula": "2791882",
+        "fechaNacimiento": "7/11",
+        "msjBienvenidaSend": false
+    },
+    {
+        "nombre": "Catalina Fernandez del Puerto",
+        "telefono": "59892600081",
+        "email": "",
+        "cedula": "67188815",
+        "fechaNacimiento": "20/02",
+        "msjBienvenidaSend": false
+    },
+    {
+        "nombre": "Lilia Ruiz",
+        "telefono": "59894630821",
+        "email": "",
+        "cedula": "2971963",
+        "fechaNacimiento": "9/01",
+        "msjBienvenidaSend": false
+    },
+    {
+        "nombre": "Alexandra Silva Parra",
+        "telefono": "59894172018",
+        "email": "alexandrasilvaparra5@gmail.com",
+        "cedula": "4168246",
+        "fechaNacimiento": "13/06",
+        "msjBienvenidaSend": false
+    },
+    {
+        "nombre": "Lucas Perdomo",
+        "telefono": "59892313263",
+        "email": "",
+        "cedula": "5555506",
+        "fechaNacimiento": "26/11",
+        "msjBienvenidaSend": false
+    },
+    {
+        "nombre": "Carlos Curbelo Bonilla",
+        "telefono": "59899813857",
+        "email": "cardacur@hotmail.com",
+        "cedula": "3105013",
+        "fechaNacimiento": "29/10",
+        "msjBienvenidaSend": false
+    }
+]

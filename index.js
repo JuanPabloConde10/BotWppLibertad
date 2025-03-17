@@ -37,22 +37,12 @@ if (args.includes('--enviar-bienvenidas')) {
         process.exit(0);
     });
 } else if (args.includes('--evento')) {
-    const index = args.indexOf('--evento');
-    const nombre = args[index + 1];
-    const fecha = args[index + 2];
-    const hora = args[index + 3];
-    const descripcion = args[index + 4];
-
-    if (nombre && fecha && hora && descripcion) {
-        console.log('Enviando notificación de evento...');
-        conectarWhatsApp(async (sock) => {
-            await enviarNotificacionEvento(sock, nombre, fecha, hora, descripcion);
-            console.log('Notificación de evento enviada.');
-            process.exit(0);
-        });
-    } else {
-        console.log('Uso: node index.js --evento "Nombre del Evento" "DD/MM/YYYY" "HH:MM" "Descripción del evento"');
-    }
+    console.log('Enviando notificación de evento...');
+    conectarWhatsApp(async (sock) => {
+        await enviarNotificacionEvento(sock);
+        console.log('Notificación de evento enviada.');
+        process.exit(0);
+    });
 } else {
     // Iniciar el bot en modo normal
     const hoy = new Date();

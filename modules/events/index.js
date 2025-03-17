@@ -3,22 +3,16 @@ import { cargarSocios } from '../../utils/database.js';
 import { enviarMensaje } from '../../utils/whatsapp.js';
 
 // Función para generar mensaje de evento
-export function generarMensajeEvento(nombreEvento, fecha, hora, descripcion) {
-    return `📣 *EVENTO DEL CLUB* 📣
-*${nombreEvento}*
-📅 Fecha: ${fecha}
-⏰ Hora: ${hora}
-ℹ️ ${descripcion}
-
-¡Te esperamos!`;
+export function generarMensajeEvento() {
+    return `📣 *EVENTO DEL CLUB* 📣`;
 }
 
 // Función para enviar notificación de evento a todos los socios
-export async function enviarNotificacionEvento(sock, nombreEvento, fecha, hora, descripcion) {
+export async function enviarNotificacionEvento(sock) {
     const socios = cargarSocios();
-    const mensaje = generarMensajeEvento(nombreEvento, fecha, hora, descripcion);
+    const mensaje = generarMensajeEvento();
     
-    console.log(`Enviando notificación de evento "${nombreEvento}" a ${socios.length} socios...`);
+    console.log(`Enviando notificación de evento a ${socios.length} socios...`);
     
     let enviados = 0;
     let fallidos = 0;
