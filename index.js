@@ -7,7 +7,7 @@
 import { conectarWhatsApp } from './utils/whatsapp.js';
 import { initBirthdayModule, verificarCumpleañosAhora } from './modules/birthday/index.js';
 import { enviarMensajeBienvenida } from './modules/welcome/index.js';
-import { enviarNotificacionEvento } from './modules/events/index.js';
+import { enviarNotificacionEvento,enviarNotificacionEventoConFoto } from './modules/events/index.js';
 import { agregarSocio, listarSocios } from './utils/database.js';
 
 // Función para inicializar todos los módulos cuando se establece la conexión
@@ -43,7 +43,14 @@ if (args.includes('--enviar-bienvenidas')) {
         console.log('Notificación de evento enviada.');
         process.exit(0);
     });
-} else {
+} else if (args.includes('--eventoConFoto')) {
+    console.log('Enviando notificación de evento...');
+    conectarWhatsApp(async (sock) => {
+        await enviarNotificacionEventoConFoto(sock);
+        console.log('Notificación de evento enviada.');
+        process.exit(0);
+    });
+}else {
     // Iniciar el bot en modo normal
     const hoy = new Date();
     console.log('Iniciando bot de WhatsApp con Baileys...');

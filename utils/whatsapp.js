@@ -82,3 +82,34 @@ export async function conectarWhatsApp(onConnectionOpen) {
 
     return sock;
 }
+
+// Función para enviar un mensaje con una foto adjunta
+export async function enviarMensajeConFoto(sock, telefono, rutaImagen, caption = '') {
+    try {
+        // Formato del número: código de país + número sin el "+"
+        const chatId = `${telefono}@s.whatsapp.net`;
+        
+        // Verificar si la imagen existe
+        if (!fs.existsSync(rutaImagen)) {
+            console.error(`La imagen en la ruta ${rutaImagen} no existe`);
+            return false;
+        }
+        
+        // Leer la imagen como buffer
+        const imageBuffer = fs.readFileSync(rutaImagen);
+        
+        // Crear el mensaje con la imagen
+        const mensaje = {
+            image: imageBuffer,
+            caption: caption // Texto opcional que acompaña a la imagen
+        };
+        
+        // Enviar mensaje con imagen
+        await sock.sendMessage(chatId, mensaje);
+        console.log(`Mensaje con foto enviado a ${telefono}`);
+        return true;
+    } catch (error) {
+        console.error(`Error al enviar mensaje con foto a ${telefono}:`, error);
+        return false;
+    }
+}

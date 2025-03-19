@@ -6,7 +6,7 @@
     "start": "node index.js",
     "cumpleaños": "node index.js --verificar-cumpleaños",
     "listar": "node index.js --listar-socios",
-    "agregar": "node index.js --agregar-socio",
+    "bienvenida": "node index.js --enviar-bienvenidas",
     "evento": "node index.js --evento"
   },
   "keywords": [],

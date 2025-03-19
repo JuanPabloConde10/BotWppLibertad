@@ -6,7 +6,7 @@ import { PATHS } from '../../config/paths.js';
 
 // Función para generar mensaje de bienvenida
 export function generarMensajeBienvenida(nombre) {
-    return `Te damos la bienvenida a una nueva temporada deportiva del Club A. Libertad. \n\nGracias por el apoyo y por ser parte del más grande. \n\nVamos por todo!!! 🔵⚪️`;
+    return `Te damos la bienvenida a una nueva temporada deportiva del Club A. Libertad. \n\nGracias por formar parte de la gran familia albiceleste !!!\n\nVamos por todo!!! 🔵⚪️`;
 }
 
 // Función para enviar mensaje de bienvenida a todos los socios pendientes
